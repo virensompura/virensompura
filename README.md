@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World! I'm Viren</h1></summary>
+    <summary><h1 style="display: inline-block">Hey There! I'm Viren</h1></summary>
   </ul>
 </div>
 
