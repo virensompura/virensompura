@@ -71,7 +71,7 @@
 
 <!--icons and links-->
 <p align="center"> 
-<a href="https://github.com/virensompura" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" height="35" width="35" /></a>
+<a href="https://github.com/virensompura" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" height="32" width="32" /></a>
 <a href="https://www.instagram.com/virensompura/?hl=en" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" alt="instagram" height="55" width="55" /></a>
 <a href="https://www.linkedin.com/in/viren-sompura-609a79127" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="35" /></a>
 <!--<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>-->
