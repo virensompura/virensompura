@@ -75,7 +75,7 @@
 <a href="https://www.instagram.com/virensompura/?hl=en" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" alt="instagram" height="55" width="55" /></a>
 <a href="https://www.linkedin.com/in/viren-sompura-609a79127" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="35" /></a>
 <a href="https://twitter.com/VirenSompura01" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="twitter" height="45" width="45" /></a>
-  
+<a href="mailto:sompuraviren03@example.com"  target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="40" width="40" /></a>
 </p>
 
 
