@@ -80,7 +80,7 @@
 <a href="https://github.com/virensompura" target="blank"><img align="center" src="https://github.com/virensompura/Coding_Challenge/blob/main/vecteezy_github-logo-git-hub-icon-with-text-on-white-and-black_17119660.jpg" alt="github" height="35" width="35" /></a>
 <a href="https://www.instagram.com/virensompura/?hl=en" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" alt="instagram" height="55" width="55" /></a>
 <a href="https://www.linkedin.com/in/viren-sompura-609a79127" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="35" /></a>
-<a href="https://twitter.com/VirenSompura01" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="twitter" height="40" width="40" /></a>
+<a href="https://twitter.com/VirenSompura01" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="twitter" height="35" width="35" /></a>
 <!-- <a href="mailto:sompuraviren03@example.com"  target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="gmail" height="40" width="40" /></a> -->
 </p>
 
