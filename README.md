@@ -32,7 +32,7 @@
   
   <td width="50%" align="center">
   
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=virensompura&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=virensompura&theme=algolia&layout=compact&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     
   </td>
   </tr>
