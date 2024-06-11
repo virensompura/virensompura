@@ -25,7 +25,7 @@
   <tr border="none">
   <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=virensompura&theme=algolia&rank_icon=percentile&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=virensompura&theme=algolia&show_icons=true&count_private=true" />
     <br></br>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virensompura&theme=algolia&hide_border=false" /> 
   </td>
