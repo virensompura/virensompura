@@ -57,11 +57,11 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://virensompura.github.io/"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/virensompura"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://www.instagram.com/virensompura/?hl=en"><img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/viren-sompura-609a79127"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://twitter.com/VirenSompura01"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://virensompura.github.io/"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/virensompura"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/virensompura/?hl=en"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/viren-sompura-609a79127"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://twitter.com/VirenSompura01"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 
